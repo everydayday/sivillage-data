@@ -1,0 +1,16 @@
+# 파이썬
+__pycache__
+venv
+
+# 중간 데이터
+/product_detail
+/product_detail_m
+/product_code
+/data
+
+# 용량 제한으로 제외
+# remote: error: File json_data/product_info.json is 114.24 MB; this exceeds GitHub's file size limit of 100.00 MB
+/json_data/product_info.json
+
+#
+tmp

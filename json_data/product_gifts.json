@@ -1,0 +1,3402 @@
+[
+    {
+        "product_code": "01P0000115342",
+        "gift_mgmt_nm": "[바이레도] 바디제품 펌프 증정 / 6204971064 (14)",
+        "promo_no": "2401056827",
+        "promo_nm": "[바이레도] 해당 상품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012855"
+    },
+    {
+        "product_code": "01P0000115946",
+        "gift_mgmt_nm": "[LP/오리베] 쇼핑백",
+        "promo_no": "2408068346",
+        "promo_nm": "[추석선물/오리베] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016575"
+    },
+    {
+        "product_code": "01P0000115979",
+        "gift_mgmt_nm": "[LP/오리베] 쇼핑백",
+        "promo_no": "2408068346",
+        "promo_nm": "[추석선물/오리베] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016575"
+    },
+    {
+        "product_code": "01P0000116030",
+        "gift_mgmt_nm": "[LP] 쇼핑백 (소)",
+        "promo_no": "2408068298",
+        "promo_nm": "[추석선물/라페르바] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016576"
+    },
+    {
+        "product_code": "01P0000116096",
+        "gift_mgmt_nm": "[LP/오리베] 쇼핑백",
+        "promo_no": "2408068346",
+        "promo_nm": "[추석선물/오리베] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016575"
+    },
+    {
+        "product_code": "01P0000116112",
+        "gift_mgmt_nm": "[LP] 쇼핑백 (소)",
+        "promo_no": "2408068298",
+        "promo_nm": "[추석선물/라페르바] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016576"
+    },
+    {
+        "product_code": "01P0000116218",
+        "gift_mgmt_nm": "[LP/오리베] 쇼핑백",
+        "promo_no": "2408068346",
+        "promo_nm": "[추석선물/오리베] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016575"
+    },
+    {
+        "product_code": "01P0000116283",
+        "gift_mgmt_nm": "[LP] 쇼핑백 (소)",
+        "promo_no": "2408068298",
+        "promo_nm": "[추석선물/라페르바] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016576"
+    },
+    {
+        "product_code": "01P0000116284",
+        "gift_mgmt_nm": "[LP] 쇼핑백 (소)",
+        "promo_no": "2408068298",
+        "promo_nm": "[추석선물/라페르바] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016576"
+    },
+    {
+        "product_code": "01P0000116314",
+        "gift_mgmt_nm": "[LP] 쇼핑백 (소)",
+        "promo_no": "2408068298",
+        "promo_nm": "[추석선물/라페르바] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016576"
+    },
+    {
+        "product_code": "01P0000116332",
+        "gift_mgmt_nm": "[SMN] 이드랄리아 스파츌라",
+        "promo_no": "2312056094",
+        "promo_nm": "[산타마리아노벨라] 이드랄리아 구매시, 스파츌러 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2200009790"
+    },
+    {
+        "product_code": "01P0000116449",
+        "gift_mgmt_nm": "[SMN] 이드랄리아 스파츌라",
+        "promo_no": "2312056094",
+        "promo_nm": "[산타마리아노벨라] 이드랄리아 구매시, 스파츌러 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2200009790"
+    },
+    {
+        "product_code": "01P0000126281",
+        "gift_mgmt_nm": "[LP/오리베] 쇼핑백",
+        "promo_no": "2408068346",
+        "promo_nm": "[추석선물/오리베] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016575"
+    },
+    {
+        "product_code": "01P0000207194",
+        "gift_mgmt_nm": "[딥티크] 플레르드뽀 2ml + 벨벳 핸드로션 10ml 증정",
+        "promo_no": "2408068468",
+        "promo_nm": "[딥티크] 해당 상품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400018010"
+    },
+    {
+        "product_code": "01P0000269449",
+        "gift_mgmt_nm": "[SMN] 향수 스프레이 캡(SIV)",
+        "promo_no": "2312056093",
+        "promo_nm": "[산타마리아노벨라] 아쿠아 디 콜로니아 구매 시 스프레이캡 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2000004242"
+    },
+    {
+        "product_code": "01P0000270013",
+        "gift_mgmt_nm": "[HG]  커션 익스트림 래쉬 마스카라 3.8g - 디럭스",
+        "promo_no": "2408068342",
+        "promo_nm": "[추석선물/아워글래스] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017320"
+    },
+    {
+        "product_code": "01P0000270020",
+        "gift_mgmt_nm": "[HG]  커션 익스트림 래쉬 마스카라 3.8g - 디럭스",
+        "promo_no": "2408068342",
+        "promo_nm": "[추석선물/아워글래스] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017320"
+    },
+    {
+        "product_code": "01P0000270115",
+        "gift_mgmt_nm": "[HG] 퍼프 세트",
+        "promo_no": "2408068340",
+        "promo_nm": "[추석선물/아워글래스] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017457"
+    },
+    {
+        "product_code": "01P0000270116",
+        "gift_mgmt_nm": "[HG]  커션 익스트림 래쉬 마스카라 3.8g - 디럭스",
+        "promo_no": "2408068342",
+        "promo_nm": "[추석선물/아워글래스] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017320"
+    },
+    {
+        "product_code": "1908208938",
+        "gift_mgmt_nm": "[사은품][비디비치]하이드라 히알루론7 오버나이트 마스크 브러쉬",
+        "promo_no": "1909006669",
+        "promo_nm": "[비디비치]하이드라 어드밴스드 오버나이트 마스크 구매시 전용 브러쉬 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "1900002250"
+    },
+    {
+        "product_code": "2004264299",
+        "gift_mgmt_nm": "[LP] 쇼핑백 (소)",
+        "promo_no": "2408068298",
+        "promo_nm": "[추석선물/라페르바] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016576"
+    },
+    {
+        "product_code": "2008296057",
+        "gift_mgmt_nm": "[SMN] 향수 스프레이 캡(SIV)",
+        "promo_no": "2312056093",
+        "promo_nm": "[산타마리아노벨라] 아쿠아 디 콜로니아 구매 시 스프레이캡 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2000004242"
+    },
+    {
+        "product_code": "2010315093",
+        "gift_mgmt_nm": "[LP/JLS]  쇼핑백 S + 리본",
+        "promo_no": "2408068348",
+        "promo_nm": "[추석선물/조러브스] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017975"
+    },
+    {
+        "product_code": "2010315094",
+        "gift_mgmt_nm": "[LP/조러브스] 오 드 뚜왈렛 망고 타이 라임 10ml",
+        "promo_no": "2408068295",
+        "promo_nm": "[라페르바/조러브스] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400015946"
+    },
+    {
+        "product_code": "2010315096",
+        "gift_mgmt_nm": "[LP/JLS]  쇼핑백 S + 리본",
+        "promo_no": "2408068348",
+        "promo_nm": "[추석선물/조러브스] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017975"
+    },
+    {
+        "product_code": "2012324143",
+        "gift_mgmt_nm": "[로이비] LV 쇼핑백(basic) 증정",
+        "promo_no": "2409068949",
+        "promo_nm": "[로이비] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017856"
+    },
+    {
+        "product_code": "2012324144",
+        "gift_mgmt_nm": "[로이비] LV 쇼핑백(basic) 증정",
+        "promo_no": "2409068949",
+        "promo_nm": "[로이비] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017856"
+    },
+    {
+        "product_code": "2012326939",
+        "gift_mgmt_nm": "[연작] 세트 구매시 전초 마스크 3매 증정",
+        "promo_no": "2408068042",
+        "promo_nm": "[연작] 세트 상품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017844"
+    },
+    {
+        "product_code": "2012326939",
+        "gift_mgmt_nm": "[연작] 컨센트레이트 세트 구매시 쇼핑백 (소)",
+        "promo_no": "2408068587",
+        "promo_nm": "[연작] 세트상품 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400018041"
+    },
+    {
+        "product_code": "2012326996",
+        "gift_mgmt_nm": "[연작] 베이스프렙 구매 시 달토끼 파우치 증정",
+        "promo_no": "2408068047",
+        "promo_nm": "[연작] 해당 상품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017842"
+    },
+    {
+        "product_code": "2101328102",
+        "gift_mgmt_nm": "[바이레도] 바디제품 펌프 증정 / 6204971064 (14)",
+        "promo_no": "2401056827",
+        "promo_nm": "[바이레도] 해당 상품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012855"
+    },
+    {
+        "product_code": "2102336751",
+        "gift_mgmt_nm": "[스위스퍼펙션] 스몰 페이퍼 백 증정",
+        "promo_no": "2408068601",
+        "promo_nm": "[스위스퍼펙션] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017705"
+    },
+    {
+        "product_code": "2102336755",
+        "gift_mgmt_nm": "[스위스퍼펙션] 스몰 페이퍼 백 증정",
+        "promo_no": "2408068601",
+        "promo_nm": "[스위스퍼펙션] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017705"
+    },
+    {
+        "product_code": "2102336764",
+        "gift_mgmt_nm": "[스위스퍼펙션] 스몰 페이퍼 백 증정",
+        "promo_no": "2408068601",
+        "promo_nm": "[스위스퍼펙션] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017705"
+    },
+    {
+        "product_code": "2102336765",
+        "gift_mgmt_nm": "[스위스퍼펙션] 스몰 페이퍼 백 증정",
+        "promo_no": "2408068601",
+        "promo_nm": "[스위스퍼펙션] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017705"
+    },
+    {
+        "product_code": "2104363418",
+        "gift_mgmt_nm": "[멜린앤게츠] 쇼핑백 (중) 증정",
+        "promo_no": "2408068376",
+        "promo_nm": "[추석선물/멜린앤게츠] 해당 상품 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400018017"
+    },
+    {
+        "product_code": "2104363438",
+        "gift_mgmt_nm": "[멜린앤게츠] 쇼핑백 (중) 증정",
+        "promo_no": "2408068376",
+        "promo_nm": "[추석선물/멜린앤게츠] 해당 상품 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400018017"
+    },
+    {
+        "product_code": "2104363440",
+        "gift_mgmt_nm": "[멜린앤게츠] 쇼핑백 (중) 증정",
+        "promo_no": "2408068376",
+        "promo_nm": "[추석선물/멜린앤게츠] 해당 상품 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400018017"
+    },
+    {
+        "product_code": "2106374427",
+        "gift_mgmt_nm": "[스위스퍼펙션] 스몰 페이퍼 백 증정",
+        "promo_no": "2408068601",
+        "promo_nm": "[스위스퍼펙션] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017705"
+    },
+    {
+        "product_code": "2106374429",
+        "gift_mgmt_nm": "[스위스퍼펙션] 스몰 페이퍼 백 증정",
+        "promo_no": "2408068601",
+        "promo_nm": "[스위스퍼펙션] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017705"
+    },
+    {
+        "product_code": "2106378771",
+        "gift_mgmt_nm": "[SMN] 향수 스프레이 캡(SIV)",
+        "promo_no": "2312056093",
+        "promo_nm": "[산타마리아노벨라] 아쿠아 디 콜로니아 구매 시 스프레이캡 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2000004242"
+    },
+    {
+        "product_code": "2107386068",
+        "gift_mgmt_nm": "[SMN] 향수 스프레이 캡(SIV)",
+        "promo_no": "2312056093",
+        "promo_nm": "[산타마리아노벨라] 아쿠아 디 콜로니아 구매 시 스프레이캡 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2000004242"
+    },
+    {
+        "product_code": "2108396584",
+        "gift_mgmt_nm": "[SMN] 디퓨저 쇼핑백",
+        "promo_no": "2408067693",
+        "promo_nm": "[산타마리아노벨라] 디퓨저 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016535"
+    },
+    {
+        "product_code": "2108396584",
+        "gift_mgmt_nm": "SMN_디퓨저스틱 (8개입)",
+        "promo_no": "2312056083",
+        "promo_nm": "[산타마리아노벨라] 디퓨저 또는 디퓨저 리필 구매 시 디퓨저 스틱 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2100006626"
+    },
+    {
+        "product_code": "2108396585",
+        "gift_mgmt_nm": "[SMN] 디퓨저 쇼핑백",
+        "promo_no": "2408067693",
+        "promo_nm": "[산타마리아노벨라] 디퓨저 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016535"
+    },
+    {
+        "product_code": "2108396585",
+        "gift_mgmt_nm": "SMN_디퓨저스틱 (8개입)",
+        "promo_no": "2312056083",
+        "promo_nm": "[산타마리아노벨라] 디퓨저 또는 디퓨저 리필 구매 시 디퓨저 스틱 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2100006626"
+    },
+    {
+        "product_code": "2108396587",
+        "gift_mgmt_nm": "[SMN] 디퓨저 쇼핑백",
+        "promo_no": "2408067693",
+        "promo_nm": "[산타마리아노벨라] 디퓨저 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016535"
+    },
+    {
+        "product_code": "2108396587",
+        "gift_mgmt_nm": "SMN_디퓨저스틱 (8개입)",
+        "promo_no": "2312056083",
+        "promo_nm": "[산타마리아노벨라] 디퓨저 또는 디퓨저 리필 구매 시 디퓨저 스틱 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2100006626"
+    },
+    {
+        "product_code": "2108396588",
+        "gift_mgmt_nm": "[SMN] 디퓨저 쇼핑백",
+        "promo_no": "2408067693",
+        "promo_nm": "[산타마리아노벨라] 디퓨저 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016535"
+    },
+    {
+        "product_code": "2108396588",
+        "gift_mgmt_nm": "SMN_디퓨저스틱 (8개입)",
+        "promo_no": "2312056083",
+        "promo_nm": "[산타마리아노벨라] 디퓨저 또는 디퓨저 리필 구매 시 디퓨저 스틱 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2100006626"
+    },
+    {
+        "product_code": "2110421726",
+        "gift_mgmt_nm": "[SMN] 향수 스프레이 캡(SIV)",
+        "promo_no": "2312056093",
+        "promo_nm": "[산타마리아노벨라] 아쿠아 디 콜로니아 구매 시 스프레이캡 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2000004242"
+    },
+    {
+        "product_code": "2202456371",
+        "gift_mgmt_nm": "[HG]  커션 익스트림 래쉬 마스카라 3.8g - 디럭스",
+        "promo_no": "2408068342",
+        "promo_nm": "[추석선물/아워글래스] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017320"
+    },
+    {
+        "product_code": "2202457761",
+        "gift_mgmt_nm": "[스위스퍼펙션] 스몰 페이퍼 백 증정",
+        "promo_no": "2408068601",
+        "promo_nm": "[스위스퍼펙션] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017705"
+    },
+    {
+        "product_code": "2202457762",
+        "gift_mgmt_nm": "[스위스퍼펙션] 스몰 페이퍼 백 증정",
+        "promo_no": "2408068601",
+        "promo_nm": "[스위스퍼펙션] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017705"
+    },
+    {
+        "product_code": "2202457763",
+        "gift_mgmt_nm": "[스위스퍼펙션] 스몰 페이퍼 백 증정",
+        "promo_no": "2408068601",
+        "promo_nm": "[스위스퍼펙션] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017705"
+    },
+    {
+        "product_code": "2202464380",
+        "gift_mgmt_nm": "[로이비] LV 쇼핑백(basic) 증정",
+        "promo_no": "2409068949",
+        "promo_nm": "[로이비] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017856"
+    },
+    {
+        "product_code": "2202464381",
+        "gift_mgmt_nm": "[로이비] LV 쇼핑백(basic) 증정",
+        "promo_no": "2409068949",
+        "promo_nm": "[로이비] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017856"
+    },
+    {
+        "product_code": "2203470158",
+        "gift_mgmt_nm": "[SMN] 향수 스프레이 캡(SIV)",
+        "promo_no": "2312056093",
+        "promo_nm": "[산타마리아노벨라] 아쿠아 디 콜로니아 구매 시 스프레이캡 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2000004242"
+    },
+    {
+        "product_code": "2203470163",
+        "gift_mgmt_nm": "[SMN] 향수 스프레이 캡(SIV)",
+        "promo_no": "2312056093",
+        "promo_nm": "[산타마리아노벨라] 아쿠아 디 콜로니아 구매 시 스프레이캡 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2000004242"
+    },
+    {
+        "product_code": "2203473620",
+        "gift_mgmt_nm": "[LP/오리베] 쇼핑백",
+        "promo_no": "2408068346",
+        "promo_nm": "[추석선물/오리베] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016575"
+    },
+    {
+        "product_code": "2203482969",
+        "gift_mgmt_nm": "[LP/오리베] 쇼핑백",
+        "promo_no": "2408068346",
+        "promo_nm": "[추석선물/오리베] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016575"
+    },
+    {
+        "product_code": "2203482970",
+        "gift_mgmt_nm": "[LP/오리베] 쇼핑백",
+        "promo_no": "2408068346",
+        "promo_nm": "[추석선물/오리베] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016575"
+    },
+    {
+        "product_code": "2204491096",
+        "gift_mgmt_nm": "[바이레도] 바디제품 펌프 증정 / 6204971064 (14)",
+        "promo_no": "2401056827",
+        "promo_nm": "[바이레도] 해당 상품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012855"
+    },
+    {
+        "product_code": "2204491098",
+        "gift_mgmt_nm": "[바이레도] 바디제품 펌프 증정 / 6204971064 (14)",
+        "promo_no": "2401056827",
+        "promo_nm": "[바이레도] 해당 상품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012855"
+    },
+    {
+        "product_code": "2204491099",
+        "gift_mgmt_nm": "[바이레도] 바디제품 펌프 증정 / 6204971064 (14)",
+        "promo_no": "2401056827",
+        "promo_nm": "[바이레도] 해당 상품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012855"
+    },
+    {
+        "product_code": "2204491101",
+        "gift_mgmt_nm": "[바이레도] 바디제품 펌프 증정 / 6204971064 (14)",
+        "promo_no": "2401056827",
+        "promo_nm": "[바이레도] 해당 상품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012855"
+    },
+    {
+        "product_code": "2204491102",
+        "gift_mgmt_nm": "[바이레도] 바디제품 펌프 증정 / 6204971064 (14)",
+        "promo_no": "2401056827",
+        "promo_nm": "[바이레도] 해당 상품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012855"
+    },
+    {
+        "product_code": "2205501423",
+        "gift_mgmt_nm": "[바이레도] 바디제품 펌프 증정 / 6204971064 (14)",
+        "promo_no": "2401056827",
+        "promo_nm": "[바이레도] 해당 상품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012855"
+    },
+    {
+        "product_code": "2206521534",
+        "gift_mgmt_nm": "[연작] 세트 구매시 전초 마스크 3매 증정",
+        "promo_no": "2408068042",
+        "promo_nm": "[연작] 세트 상품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017844"
+    },
+    {
+        "product_code": "2207525916",
+        "gift_mgmt_nm": "[디에스앤더가] 50ml 구매 시 오토 1종",
+        "promo_no": "2408068571",
+        "promo_nm": "[디에스앤더가] 50ml 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400018037"
+    },
+    {
+        "product_code": "2207525925",
+        "gift_mgmt_nm": "[디에스앤더가] 50ml 구매 시 오토 1종",
+        "promo_no": "2408068571",
+        "promo_nm": "[디에스앤더가] 50ml 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400018037"
+    },
+    {
+        "product_code": "2207525933",
+        "gift_mgmt_nm": "[디에스앤더가] 100ml & 디럭스 구매 시 오토 2종",
+        "promo_no": "2408068572",
+        "promo_nm": "[디에스앤더가] 100ml &amp; 디럭스 박스 세트 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400018036"
+    },
+    {
+        "product_code": "2207525936",
+        "gift_mgmt_nm": "[디에스앤더가] 50ml 구매 시 오토 1종",
+        "promo_no": "2408068571",
+        "promo_nm": "[디에스앤더가] 50ml 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400018037"
+    },
+    {
+        "product_code": "2207525948",
+        "gift_mgmt_nm": "[디에스앤더가] 50ml 구매 시 오토 1종",
+        "promo_no": "2408068571",
+        "promo_nm": "[디에스앤더가] 50ml 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400018037"
+    },
+    {
+        "product_code": "2209553423",
+        "gift_mgmt_nm": "[엑스니힐로] 추천 오드퍼퓸 캔들,미스트2종증정",
+        "promo_no": "2408068049",
+        "promo_nm": "[엑스니힐로] 가을 추천 향수 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017841"
+    },
+    {
+        "product_code": "2209563929",
+        "gift_mgmt_nm": "[LP] 쇼핑백 (소)",
+        "promo_no": "2408068298",
+        "promo_nm": "[추석선물/라페르바] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016576"
+    },
+    {
+        "product_code": "2209563931",
+        "gift_mgmt_nm": "[LP/DBS] 쇼핑백",
+        "promo_no": "2408068297",
+        "promo_nm": "[라페르바/닥터바바라스텀] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017943"
+    },
+    {
+        "product_code": "2209563932",
+        "gift_mgmt_nm": "[LP] 쇼핑백 (소)",
+        "promo_no": "2408068298",
+        "promo_nm": "[추석선물/라페르바] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016576"
+    },
+    {
+        "product_code": "2209563933",
+        "gift_mgmt_nm": "[LP] 쇼핑백 (소)",
+        "promo_no": "2408068298",
+        "promo_nm": "[추석선물/라페르바] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016576"
+    },
+    {
+        "product_code": "2209563934",
+        "gift_mgmt_nm": "[LP/DBS] 쇼핑백",
+        "promo_no": "2408068297",
+        "promo_nm": "[라페르바/닥터바바라스텀] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017943"
+    },
+    {
+        "product_code": "2209563937",
+        "gift_mgmt_nm": "[LP/DBS] 쇼핑백",
+        "promo_no": "2408068297",
+        "promo_nm": "[라페르바/닥터바바라스텀] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017943"
+    },
+    {
+        "product_code": "2210568970",
+        "gift_mgmt_nm": "[로이비] LV 쇼핑백(basic) 증정",
+        "promo_no": "2409068949",
+        "promo_nm": "[로이비] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017856"
+    },
+    {
+        "product_code": "2210570822",
+        "gift_mgmt_nm": "[로이비] LV 쇼핑백(basic) 증정",
+        "promo_no": "2409068949",
+        "promo_nm": "[로이비] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017856"
+    },
+    {
+        "product_code": "2210570823",
+        "gift_mgmt_nm": "[로이비] LV 쇼핑백(basic) 증정",
+        "promo_no": "2409068949",
+        "promo_nm": "[로이비] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017856"
+    },
+    {
+        "product_code": "2210570824",
+        "gift_mgmt_nm": "[로이비] LV 쇼핑백(basic) 증정",
+        "promo_no": "2409068949",
+        "promo_nm": "[로이비] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017856"
+    },
+    {
+        "product_code": "2210570826",
+        "gift_mgmt_nm": "[로이비] LV 쇼핑백(basic) 증정",
+        "promo_no": "2409068949",
+        "promo_nm": "[로이비] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017856"
+    },
+    {
+        "product_code": "2210571171",
+        "gift_mgmt_nm": "[SMN] 이드랄리아 스파츌라",
+        "promo_no": "2312056094",
+        "promo_nm": "[산타마리아노벨라] 이드랄리아 구매시, 스파츌러 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2200009790"
+    },
+    {
+        "product_code": "2210571172",
+        "gift_mgmt_nm": "[SMN] 이드랄리아 스파츌라",
+        "promo_no": "2312056094",
+        "promo_nm": "[산타마리아노벨라] 이드랄리아 구매시, 스파츌러 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2200009790"
+    },
+    {
+        "product_code": "2210573356",
+        "gift_mgmt_nm": "[로이비] 퍼퓸드헤어2종샤셰 베르가못 (각10ml) 증정",
+        "promo_no": "2408068377",
+        "promo_nm": "[추석선물/로이비] 해당 제품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017777"
+    },
+    {
+        "product_code": "2210573356",
+        "gift_mgmt_nm": "[로이비] LV 쇼핑백(basic) 증정",
+        "promo_no": "2409068949",
+        "promo_nm": "[로이비] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017856"
+    },
+    {
+        "product_code": "2210573356",
+        "gift_mgmt_nm": "[로이비]프래그런스 디퓨저 스틱",
+        "promo_no": "2310052596",
+        "promo_nm": "[로이비] 해당 상품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2200009660"
+    },
+    {
+        "product_code": "2210573357",
+        "gift_mgmt_nm": "[로이비] 퍼퓸드헤어2종샤셰 베르가못 (각10ml) 증정",
+        "promo_no": "2408068377",
+        "promo_nm": "[추석선물/로이비] 해당 제품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017777"
+    },
+    {
+        "product_code": "2210573357",
+        "gift_mgmt_nm": "[로이비] LV 쇼핑백(basic) 증정",
+        "promo_no": "2409068949",
+        "promo_nm": "[로이비] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017856"
+    },
+    {
+        "product_code": "2210573357",
+        "gift_mgmt_nm": "[로이비]프래그런스 디퓨저 스틱",
+        "promo_no": "2310052596",
+        "promo_nm": "[로이비] 해당 상품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2200009660"
+    },
+    {
+        "product_code": "2210573359",
+        "gift_mgmt_nm": "[로이비] 퍼퓸드헤어2종샤셰 베르가못 (각10ml) 증정",
+        "promo_no": "2408068377",
+        "promo_nm": "[추석선물/로이비] 해당 제품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017777"
+    },
+    {
+        "product_code": "2210573359",
+        "gift_mgmt_nm": "[로이비] LV 쇼핑백(basic) 증정",
+        "promo_no": "2409068949",
+        "promo_nm": "[로이비] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017856"
+    },
+    {
+        "product_code": "2210573359",
+        "gift_mgmt_nm": "[로이비]프래그런스 디퓨저 스틱",
+        "promo_no": "2310052596",
+        "promo_nm": "[로이비] 해당 상품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2200009660"
+    },
+    {
+        "product_code": "2210576945",
+        "gift_mgmt_nm": "[딥티크] 플레르드뽀 2ml 증정",
+        "promo_no": "2408068485",
+        "promo_nm": "[딥티크] 해당 상품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017525"
+    },
+    {
+        "product_code": "2210576946",
+        "gift_mgmt_nm": "[딥티크] 플레르드뽀 2ml + 벨벳 핸드로션 10ml 증정",
+        "promo_no": "2408068468",
+        "promo_nm": "[딥티크] 해당 상품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400018010"
+    },
+    {
+        "product_code": "2210576947",
+        "gift_mgmt_nm": "[딥티크] 플레르드뽀 2ml 증정",
+        "promo_no": "2408068485",
+        "promo_nm": "[딥티크] 해당 상품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017525"
+    },
+    {
+        "product_code": "2210577147",
+        "gift_mgmt_nm": "[로이비] LV 쇼핑백(basic) 증정",
+        "promo_no": "2409068949",
+        "promo_nm": "[로이비] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017856"
+    },
+    {
+        "product_code": "2210577150",
+        "gift_mgmt_nm": "[로이비] LV 쇼핑백(basic) 증정",
+        "promo_no": "2409068949",
+        "promo_nm": "[로이비] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017856"
+    },
+    {
+        "product_code": "2211578994",
+        "gift_mgmt_nm": "[로이비] LV 쇼핑백(basic) 증정",
+        "promo_no": "2409068949",
+        "promo_nm": "[로이비] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017856"
+    },
+    {
+        "product_code": "2212599372",
+        "gift_mgmt_nm": "[DV]OI 펌프 280ml",
+        "promo_no": "2311054062",
+        "promo_nm": "[다비네스] 해당 제품 구매시 펌프 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012341"
+    },
+    {
+        "product_code": "2212599374",
+        "gift_mgmt_nm": "[다비네스][DV] 네추럴텍 펌프 1000ml",
+        "promo_no": "2308050088",
+        "promo_nm": "[다비네스] 해당 상품 구매 시 네추럴텍 펌프 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300011483"
+    },
+    {
+        "product_code": "2212599375",
+        "gift_mgmt_nm": "[다비네스][DV] 네추럴텍 펌프 1000ml",
+        "promo_no": "2308050088",
+        "promo_nm": "[다비네스] 해당 상품 구매 시 네추럴텍 펌프 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300011483"
+    },
+    {
+        "product_code": "2212599380",
+        "gift_mgmt_nm": "[다비네스][DV] 에센셜 펌프 1000ml",
+        "promo_no": "2310052559",
+        "promo_nm": "[다비네스] 해당 상품 구매 시 에센셜1000ml 펌프 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012363"
+    },
+    {
+        "product_code": "2212599383",
+        "gift_mgmt_nm": "[다비네스][DV] 에센셜 펌프 1000ml",
+        "promo_no": "2310052559",
+        "promo_nm": "[다비네스] 해당 상품 구매 시 에센셜1000ml 펌프 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012363"
+    },
+    {
+        "product_code": "2212599387",
+        "gift_mgmt_nm": "[다비네스][DV] 에센셜 펌프 1000ml",
+        "promo_no": "2310052559",
+        "promo_nm": "[다비네스] 해당 상품 구매 시 에센셜1000ml 펌프 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012363"
+    },
+    {
+        "product_code": "2212599388",
+        "gift_mgmt_nm": "[다비네스][DV] 에센셜 펌프 1000ml",
+        "promo_no": "2310052559",
+        "promo_nm": "[다비네스] 해당 상품 구매 시 에센셜1000ml 펌프 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012363"
+    },
+    {
+        "product_code": "2212599391",
+        "gift_mgmt_nm": "[다비네스][DV] 에센셜 펌프 1000ml",
+        "promo_no": "2310052559",
+        "promo_nm": "[다비네스] 해당 상품 구매 시 에센셜1000ml 펌프 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012363"
+    },
+    {
+        "product_code": "2212599395",
+        "gift_mgmt_nm": "[다비네스][DV] 네추럴텍 펌프 1000ml",
+        "promo_no": "2308050088",
+        "promo_nm": "[다비네스] 해당 상품 구매 시 네추럴텍 펌프 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300011483"
+    },
+    {
+        "product_code": "2212599403",
+        "gift_mgmt_nm": "[DV]OI 펌프 280ml",
+        "promo_no": "2310052560",
+        "promo_nm": "[다비네스] 해당 제품 구매시 펌프 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012341"
+    },
+    {
+        "product_code": "2212599404",
+        "gift_mgmt_nm": "[DV] 오아이 펌프 1000ml",
+        "promo_no": "2312056286",
+        "promo_nm": "[다비네스] 해당 상품 구매 시 오아이1000ml 펌프 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300010539"
+    },
+    {
+        "product_code": "2212599411",
+        "gift_mgmt_nm": "[다비네스][DV] 네추럴텍 펌프 1000ml",
+        "promo_no": "2308050088",
+        "promo_nm": "[다비네스] 해당 상품 구매 시 네추럴텍 펌프 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300011483"
+    },
+    {
+        "product_code": "2212599413",
+        "gift_mgmt_nm": "[다비네스][DV] 네추럴텍 펌프 1000ml",
+        "promo_no": "2308050088",
+        "promo_nm": "[다비네스] 해당 상품 구매 시 네추럴텍 펌프 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300011483"
+    },
+    {
+        "product_code": "2212599417",
+        "gift_mgmt_nm": "[다비네스][DV] 에센셜 펌프 1000ml",
+        "promo_no": "2310052559",
+        "promo_nm": "[다비네스] 해당 상품 구매 시 에센셜1000ml 펌프 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012363"
+    },
+    {
+        "product_code": "2212599426",
+        "gift_mgmt_nm": "[다비네스][DV] 에센셜 펌프 1000ml",
+        "promo_no": "2310052559",
+        "promo_nm": "[다비네스] 해당 상품 구매 시 에센셜1000ml 펌프 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012363"
+    },
+    {
+        "product_code": "2212599428",
+        "gift_mgmt_nm": "[다비네스][DV] 에센셜 펌프 1000ml",
+        "promo_no": "2310052559",
+        "promo_nm": "[다비네스] 해당 상품 구매 시 에센셜1000ml 펌프 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012363"
+    },
+    {
+        "product_code": "2212599434",
+        "gift_mgmt_nm": "[DV] 오아이 펌프 1000ml",
+        "promo_no": "2312056286",
+        "promo_nm": "[다비네스] 해당 상품 구매 시 오아이1000ml 펌프 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300010539"
+    },
+    {
+        "product_code": "2212599442",
+        "gift_mgmt_nm": "[다비네스][DV] 네추럴텍 펌프 1000ml",
+        "promo_no": "2308050088",
+        "promo_nm": "[다비네스] 해당 상품 구매 시 네추럴텍 펌프 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300011483"
+    },
+    {
+        "product_code": "2212599455",
+        "gift_mgmt_nm": "[다비네스][DV] 에센셜 펌프 1000ml",
+        "promo_no": "2310052559",
+        "promo_nm": "[다비네스] 해당 상품 구매 시 에센셜1000ml 펌프 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012363"
+    },
+    {
+        "product_code": "2212599461",
+        "gift_mgmt_nm": "[다비네스][DV] 에센셜 펌프 1000ml",
+        "promo_no": "2310052559",
+        "promo_nm": "[다비네스] 해당 상품 구매 시 에센셜1000ml 펌프 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012363"
+    },
+    {
+        "product_code": "2212599467",
+        "gift_mgmt_nm": "[다비네스][DV] 네추럴텍 펌프 1000ml",
+        "promo_no": "2308050088",
+        "promo_nm": "[다비네스] 해당 상품 구매 시 네추럴텍 펌프 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300011483"
+    },
+    {
+        "product_code": "2212599938",
+        "gift_mgmt_nm": "[LM] 쇼핑백 XS",
+        "promo_no": "2408068361",
+        "promo_nm": "[추석선물/로라메르시에] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017974"
+    },
+    {
+        "product_code": "2212599944",
+        "gift_mgmt_nm": "[LM] 쇼핑백 XS",
+        "promo_no": "2408068361",
+        "promo_nm": "[추석선물/로라메르시에] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017974"
+    },
+    {
+        "product_code": "2212600028",
+        "gift_mgmt_nm": "[LM] 쇼핑백 S",
+        "promo_no": "2408068360",
+        "promo_nm": "[추석선물/로라메르시에] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017973"
+    },
+    {
+        "product_code": "2212600028",
+        "gift_mgmt_nm": "[로라메르시에] 바디 스파츌러",
+        "promo_no": "2312056263",
+        "promo_nm": "[로라 메르시에] 바디 크림 구매 시 스파츌러 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300013155"
+    },
+    {
+        "product_code": "2212601549",
+        "gift_mgmt_nm": "[LM] 쇼핑백 XS",
+        "promo_no": "2408068361",
+        "promo_nm": "[추석선물/로라메르시에] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017974"
+    },
+    {
+        "product_code": "2212601823",
+        "gift_mgmt_nm": "[LM] 쇼핑백 XS",
+        "promo_no": "2408068361",
+        "promo_nm": "[추석선물/로라메르시에] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017974"
+    },
+    {
+        "product_code": "2212602086",
+        "gift_mgmt_nm": "[딥티크] 플레르드뽀 2ml 증정",
+        "promo_no": "2408068485",
+        "promo_nm": "[딥티크] 해당 상품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017525"
+    },
+    {
+        "product_code": "2301608250",
+        "gift_mgmt_nm": "[SMN] 향수 스프레이 캡(SIV)",
+        "promo_no": "2312056093",
+        "promo_nm": "[산타마리아노벨라] 아쿠아 디 콜로니아 구매 시 스프레이캡 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2000004242"
+    },
+    {
+        "product_code": "2301608253",
+        "gift_mgmt_nm": "[SMN] 향수 스프레이 캡(SIV)",
+        "promo_no": "2312056093",
+        "promo_nm": "[산타마리아노벨라] 아쿠아 디 콜로니아 구매 시 스프레이캡 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2000004242"
+    },
+    {
+        "product_code": "2301618536",
+        "gift_mgmt_nm": "[HG] 배니쉬 에어브러쉬 프라이머 - 사셰",
+        "promo_no": "2408068338",
+        "promo_nm": "[추석선물/아워글래스] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017969"
+    },
+    {
+        "product_code": "2301618562",
+        "gift_mgmt_nm": "[딥티크] 플레르드뽀 2ml + 벨벳 핸드로션 10ml 증정",
+        "promo_no": "2408068468",
+        "promo_nm": "[딥티크] 해당 상품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400018010"
+    },
+    {
+        "product_code": "2301627333",
+        "gift_mgmt_nm": "[딥티크] 플레르드뽀 2ml + 벨벳 핸드로션 10ml 증정",
+        "promo_no": "2408068468",
+        "promo_nm": "[딥티크] 해당 상품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400018010"
+    },
+    {
+        "product_code": "2301627334",
+        "gift_mgmt_nm": "[딥티크] 플레르드뽀 2ml 증정",
+        "promo_no": "2408068485",
+        "promo_nm": "[딥티크] 해당 상품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017525"
+    },
+    {
+        "product_code": "2301627340",
+        "gift_mgmt_nm": "[딥티크] 플레르드뽀 2ml + 벨벳 핸드로션 10ml 증정",
+        "promo_no": "2408068468",
+        "promo_nm": "[딥티크] 해당 상품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400018010"
+    },
+    {
+        "product_code": "2301627343",
+        "gift_mgmt_nm": "[다비네스][DV] 네추럴텍 펌프 1000ml",
+        "promo_no": "2308050088",
+        "promo_nm": "[다비네스] 해당 상품 구매 시 네추럴텍 펌프 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300011483"
+    },
+    {
+        "product_code": "2301631422",
+        "gift_mgmt_nm": "[SMN] 포푸리 제품 사용 안내문",
+        "promo_no": "2312056095",
+        "promo_nm": "[산타마리아노벨라] 해당 상품 구매 시 포푸리 안내 카드 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300010426"
+    },
+    {
+        "product_code": "2301631423",
+        "gift_mgmt_nm": "[SMN] 포푸리 제품 사용 안내문",
+        "promo_no": "2312056095",
+        "promo_nm": "[산타마리아노벨라] 해당 상품 구매 시 포푸리 안내 카드 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300010426"
+    },
+    {
+        "product_code": "2301631424",
+        "gift_mgmt_nm": "[SMN] 포푸리 제품 사용 안내문",
+        "promo_no": "2312056095",
+        "promo_nm": "[산타마리아노벨라] 해당 상품 구매 시 포푸리 안내 카드 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300010426"
+    },
+    {
+        "product_code": "2301631425",
+        "gift_mgmt_nm": "[SMN] 포푸리 제품 사용 안내문",
+        "promo_no": "2312056095",
+        "promo_nm": "[산타마리아노벨라] 해당 상품 구매 시 포푸리 안내 카드 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300010426"
+    },
+    {
+        "product_code": "2301631437",
+        "gift_mgmt_nm": "[SMN] 파이 백색펌프 (베이비용)",
+        "promo_no": "2406064323",
+        "promo_nm": "[산타마리아노벨라] 해당 상품 구매 시 펌프 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016986"
+    },
+    {
+        "product_code": "2301632169",
+        "gift_mgmt_nm": "[SMN] 포푸리 제품 사용 안내문",
+        "promo_no": "2312056095",
+        "promo_nm": "[산타마리아노벨라] 해당 상품 구매 시 포푸리 안내 카드 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300010426"
+    },
+    {
+        "product_code": "2301632171",
+        "gift_mgmt_nm": "[SMN] 포푸리 제품 사용 안내문",
+        "promo_no": "2312056095",
+        "promo_nm": "[산타마리아노벨라] 해당 상품 구매 시 포푸리 안내 카드 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300010426"
+    },
+    {
+        "product_code": "2301641471",
+        "gift_mgmt_nm": "[라부르켓][SIV] LAB 린넨 워터 스프레이 탑",
+        "promo_no": "2310052570",
+        "promo_nm": "[라페르바/라부르켓] 린넨워터 구매시 스프레이캡 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300011821"
+    },
+    {
+        "product_code": "2302644808",
+        "gift_mgmt_nm": "[바이레도] 바디제품 펌프 증정 / 6204971064 (14)",
+        "promo_no": "2401056827",
+        "promo_nm": "[바이레도] 해당 상품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012855"
+    },
+    {
+        "product_code": "2302666210",
+        "gift_mgmt_nm": "[로이비] LV 쇼핑백(basic) 증정",
+        "promo_no": "2409068949",
+        "promo_nm": "[로이비] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017856"
+    },
+    {
+        "product_code": "2302669803",
+        "gift_mgmt_nm": "[스위스퍼펙션] 스몰 페이퍼 백 증정",
+        "promo_no": "2408068601",
+        "promo_nm": "[스위스퍼펙션] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017705"
+    },
+    {
+        "product_code": "2302669805",
+        "gift_mgmt_nm": "[스위스퍼펙션] 스몰 페이퍼 백 증정",
+        "promo_no": "2408068601",
+        "promo_nm": "[스위스퍼펙션] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017705"
+    },
+    {
+        "product_code": "2302675807",
+        "gift_mgmt_nm": "[LP] 쇼핑백 (소)",
+        "promo_no": "2408068298",
+        "promo_nm": "[추석선물/라페르바] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016576"
+    },
+    {
+        "product_code": "2302675814",
+        "gift_mgmt_nm": "[다비네스][DV] 네추럴텍 펌프 1000ml",
+        "promo_no": "2308050088",
+        "promo_nm": "[다비네스] 해당 상품 구매 시 네추럴텍 펌프 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300011483"
+    },
+    {
+        "product_code": "2303691617",
+        "gift_mgmt_nm": "[LP/DBS] 쇼핑백",
+        "promo_no": "2408068297",
+        "promo_nm": "[라페르바/닥터바바라스텀] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017943"
+    },
+    {
+        "product_code": "2303694360",
+        "gift_mgmt_nm": "[딥티크] 벨벳 핸드로션 10ml 증정",
+        "promo_no": "2408068484",
+        "promo_nm": "[딥티크] 해당 상품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400018011"
+    },
+    {
+        "product_code": "2303694361",
+        "gift_mgmt_nm": "[딥티크] 플레르드뽀 2ml 증정",
+        "promo_no": "2408068483",
+        "promo_nm": "[딥티크] 해당 상품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017525"
+    },
+    {
+        "product_code": "2303719183",
+        "gift_mgmt_nm": "[딥티크] 플레르드뽀 2ml 증정",
+        "promo_no": "2408068485",
+        "promo_nm": "[딥티크] 해당 상품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017525"
+    },
+    {
+        "product_code": "2303724417",
+        "gift_mgmt_nm": "[SMN] 포푸리 제품 사용 안내문",
+        "promo_no": "2312056095",
+        "promo_nm": "[산타마리아노벨라] 해당 상품 구매 시 포푸리 안내 카드 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300010426"
+    },
+    {
+        "product_code": "2303724423",
+        "gift_mgmt_nm": "[SMN] 디퓨저 쇼핑백",
+        "promo_no": "2408067693",
+        "promo_nm": "[산타마리아노벨라] 디퓨저 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016535"
+    },
+    {
+        "product_code": "2303724423",
+        "gift_mgmt_nm": "SMN_디퓨저스틱 (8개입)",
+        "promo_no": "2312056083",
+        "promo_nm": "[산타마리아노벨라] 디퓨저 또는 디퓨저 리필 구매 시 디퓨저 스틱 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2100006626"
+    },
+    {
+        "product_code": "2303724424",
+        "gift_mgmt_nm": "[SMN] 디퓨저 쇼핑백",
+        "promo_no": "2408067693",
+        "promo_nm": "[산타마리아노벨라] 디퓨저 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016535"
+    },
+    {
+        "product_code": "2303724424",
+        "gift_mgmt_nm": "SMN_디퓨저스틱 (8개입)",
+        "promo_no": "2312056083",
+        "promo_nm": "[산타마리아노벨라] 디퓨저 또는 디퓨저 리필 구매 시 디퓨저 스틱 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2100006626"
+    },
+    {
+        "product_code": "2303724425",
+        "gift_mgmt_nm": "[SMN] 디퓨저 쇼핑백",
+        "promo_no": "2408067693",
+        "promo_nm": "[산타마리아노벨라] 디퓨저 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016535"
+    },
+    {
+        "product_code": "2303724425",
+        "gift_mgmt_nm": "SMN_디퓨저스틱 (8개입)",
+        "promo_no": "2312056083",
+        "promo_nm": "[산타마리아노벨라] 디퓨저 또는 디퓨저 리필 구매 시 디퓨저 스틱 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2100006626"
+    },
+    {
+        "product_code": "2303724426",
+        "gift_mgmt_nm": "[SMN] 디퓨저 쇼핑백",
+        "promo_no": "2408067693",
+        "promo_nm": "[산타마리아노벨라] 디퓨저 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016535"
+    },
+    {
+        "product_code": "2303724426",
+        "gift_mgmt_nm": "SMN_디퓨저스틱 (8개입)",
+        "promo_no": "2312056083",
+        "promo_nm": "[산타마리아노벨라] 디퓨저 또는 디퓨저 리필 구매 시 디퓨저 스틱 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2100006626"
+    },
+    {
+        "product_code": "2303724427",
+        "gift_mgmt_nm": "[SMN] 디퓨저 쇼핑백",
+        "promo_no": "2408067693",
+        "promo_nm": "[산타마리아노벨라] 디퓨저 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016535"
+    },
+    {
+        "product_code": "2303724427",
+        "gift_mgmt_nm": "SMN_디퓨저스틱 (8개입)",
+        "promo_no": "2312056083",
+        "promo_nm": "[산타마리아노벨라] 디퓨저 또는 디퓨저 리필 구매 시 디퓨저 스틱 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2100006626"
+    },
+    {
+        "product_code": "2303724428",
+        "gift_mgmt_nm": "[SMN] 디퓨저 쇼핑백",
+        "promo_no": "2408067693",
+        "promo_nm": "[산타마리아노벨라] 디퓨저 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016535"
+    },
+    {
+        "product_code": "2303724428",
+        "gift_mgmt_nm": "SMN_디퓨저스틱 (8개입)",
+        "promo_no": "2312056083",
+        "promo_nm": "[산타마리아노벨라] 디퓨저 또는 디퓨저 리필 구매 시 디퓨저 스틱 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2100006626"
+    },
+    {
+        "product_code": "2303724429",
+        "gift_mgmt_nm": "[SMN] 디퓨저 쇼핑백",
+        "promo_no": "2408067693",
+        "promo_nm": "[산타마리아노벨라] 디퓨저 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016535"
+    },
+    {
+        "product_code": "2303724429",
+        "gift_mgmt_nm": "SMN_디퓨저스틱 (8개입)",
+        "promo_no": "2312056083",
+        "promo_nm": "[산타마리아노벨라] 디퓨저 또는 디퓨저 리필 구매 시 디퓨저 스틱 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2100006626"
+    },
+    {
+        "product_code": "2303724430",
+        "gift_mgmt_nm": "[SMN] 디퓨저 쇼핑백",
+        "promo_no": "2408067693",
+        "promo_nm": "[산타마리아노벨라] 디퓨저 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016535"
+    },
+    {
+        "product_code": "2303724430",
+        "gift_mgmt_nm": "SMN_디퓨저스틱 (8개입)",
+        "promo_no": "2312056083",
+        "promo_nm": "[산타마리아노벨라] 디퓨저 또는 디퓨저 리필 구매 시 디퓨저 스틱 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2100006626"
+    },
+    {
+        "product_code": "2304731153",
+        "gift_mgmt_nm": "[LP/JLS]  쇼핑백 S + 리본",
+        "promo_no": "2408068348",
+        "promo_nm": "[추석선물/조러브스] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017975"
+    },
+    {
+        "product_code": "2304733803",
+        "gift_mgmt_nm": "[HG] 퍼프 세트",
+        "promo_no": "2408068340",
+        "promo_nm": "[추석선물/아워글래스] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017457"
+    },
+    {
+        "product_code": "2304741514",
+        "gift_mgmt_nm": "[로이비] LV 쇼핑백(basic) 증정",
+        "promo_no": "2409068949",
+        "promo_nm": "[로이비] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017856"
+    },
+    {
+        "product_code": "2304741515",
+        "gift_mgmt_nm": "[로이비] LV 쇼핑백(basic) 증정",
+        "promo_no": "2409068949",
+        "promo_nm": "[로이비] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017856"
+    },
+    {
+        "product_code": "2304741516",
+        "gift_mgmt_nm": "[로이비] LV 쇼핑백(basic) 증정",
+        "promo_no": "2409068949",
+        "promo_nm": "[로이비] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017856"
+    },
+    {
+        "product_code": "2304741517",
+        "gift_mgmt_nm": "[로이비] LV 쇼핑백(basic) 증정",
+        "promo_no": "2409068949",
+        "promo_nm": "[로이비] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017856"
+    },
+    {
+        "product_code": "2304760812",
+        "gift_mgmt_nm": "[SMN] 이드랄리아 스파츌라",
+        "promo_no": "2312056094",
+        "promo_nm": "[산타마리아노벨라] 이드랄리아 구매시, 스파츌러 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2200009790"
+    },
+    {
+        "product_code": "2305767966",
+        "gift_mgmt_nm": "[로이비] 퍼퓸드헤어2종샤셰 베르가못 (각10ml) 증정",
+        "promo_no": "2408068377",
+        "promo_nm": "[추석선물/로이비] 해당 제품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017777"
+    },
+    {
+        "product_code": "2305767966",
+        "gift_mgmt_nm": "[로이비] LV 쇼핑백(basic) 증정",
+        "promo_no": "2409068949",
+        "promo_nm": "[로이비] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017856"
+    },
+    {
+        "product_code": "2305768482",
+        "gift_mgmt_nm": "[스위스퍼펙션] 스몰 페이퍼 백 증정",
+        "promo_no": "2408068601",
+        "promo_nm": "[스위스퍼펙션] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017705"
+    },
+    {
+        "product_code": "2305770912",
+        "gift_mgmt_nm": "[스위스퍼펙션] 스몰 페이퍼 백 증정",
+        "promo_no": "2408068601",
+        "promo_nm": "[스위스퍼펙션] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017705"
+    },
+    {
+        "product_code": "2305779039",
+        "gift_mgmt_nm": "[LP/HL] 쇼핑백",
+        "promo_no": "2408068296",
+        "promo_nm": "[라페르바/힐리] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017942"
+    },
+    {
+        "product_code": "2305779043",
+        "gift_mgmt_nm": "[LP/HL] 쇼핑백",
+        "promo_no": "2408068296",
+        "promo_nm": "[라페르바/힐리] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017942"
+    },
+    {
+        "product_code": "2305779045",
+        "gift_mgmt_nm": "[LP/HL] 쇼핑백",
+        "promo_no": "2408068296",
+        "promo_nm": "[라페르바/힐리] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017942"
+    },
+    {
+        "product_code": "2305779047",
+        "gift_mgmt_nm": "[LP/HL] 쇼핑백",
+        "promo_no": "2408068296",
+        "promo_nm": "[라페르바/힐리] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017942"
+    },
+    {
+        "product_code": "2305779052",
+        "gift_mgmt_nm": "[LP/HL] 쇼핑백",
+        "promo_no": "2408068296",
+        "promo_nm": "[라페르바/힐리] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017942"
+    },
+    {
+        "product_code": "2305790373",
+        "gift_mgmt_nm": "[스위스퍼펙션] 스몰 페이퍼 백 증정",
+        "promo_no": "2408068601",
+        "promo_nm": "[스위스퍼펙션] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017705"
+    },
+    {
+        "product_code": "2305803486",
+        "gift_mgmt_nm": "[LP] 쇼핑백 (소)",
+        "promo_no": "2408068298",
+        "promo_nm": "[추석선물/라페르바] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016576"
+    },
+    {
+        "product_code": "2306807079",
+        "gift_mgmt_nm": "[로이비] 퍼퓸드헤어2종샤셰 베르가못 (각10ml) 증정",
+        "promo_no": "2408068377",
+        "promo_nm": "[추석선물/로이비] 해당 제품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017777"
+    },
+    {
+        "product_code": "2306807079",
+        "gift_mgmt_nm": "[로이비] LV 쇼핑백(basic) 증정",
+        "promo_no": "2409068949",
+        "promo_nm": "[로이비] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017856"
+    },
+    {
+        "product_code": "2306811032",
+        "gift_mgmt_nm": "[라부르켓][SIV] LAB 린넨 워터 스프레이 탑",
+        "promo_no": "2310052561",
+        "promo_nm": "[라부르켓] 히노키 린넨워터 구매시 스프레이캡 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012235"
+    },
+    {
+        "product_code": "2306829337",
+        "gift_mgmt_nm": "[LM] 쇼핑백 S",
+        "promo_no": "2408068360",
+        "promo_nm": "[추석선물/로라메르시에] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017973"
+    },
+    {
+        "product_code": "2306829337",
+        "gift_mgmt_nm": "[로라메르시에] 바디 스파츌러",
+        "promo_no": "2312056263",
+        "promo_nm": "[로라 메르시에] 바디 크림 구매 시 스파츌러 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300013155"
+    },
+    {
+        "product_code": "2307840325",
+        "gift_mgmt_nm": "[LP] 쇼핑백 (소)",
+        "promo_no": "2408068298",
+        "promo_nm": "[추석선물/라페르바] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016576"
+    },
+    {
+        "product_code": "2307840326",
+        "gift_mgmt_nm": "[LP] 쇼핑백 (소)",
+        "promo_no": "2408068298",
+        "promo_nm": "[추석선물/라페르바] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016576"
+    },
+    {
+        "product_code": "2307840327",
+        "gift_mgmt_nm": "[LP] 쇼핑백 (소)",
+        "promo_no": "2408068298",
+        "promo_nm": "[추석선물/라페르바] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016576"
+    },
+    {
+        "product_code": "2307843491",
+        "gift_mgmt_nm": "[CM]디퓨저스틱 250ml",
+        "promo_no": "2409068907",
+        "promo_nm": "[쿨티밀라노] 해당 상품 구매 시 디퓨저 스틱 증정 (250ml)",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012652"
+    },
+    {
+        "product_code": "2307843492",
+        "gift_mgmt_nm": "[CM]디퓨저스틱 250ml",
+        "promo_no": "2409068907",
+        "promo_nm": "[쿨티밀라노] 해당 상품 구매 시 디퓨저 스틱 증정 (250ml)",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012652"
+    },
+    {
+        "product_code": "2307843493",
+        "gift_mgmt_nm": "[CM]디퓨저스틱 250ml",
+        "promo_no": "2409068907",
+        "promo_nm": "[쿨티밀라노] 해당 상품 구매 시 디퓨저 스틱 증정 (250ml)",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012652"
+    },
+    {
+        "product_code": "2307843494",
+        "gift_mgmt_nm": "[CM]디퓨저스틱 250ml",
+        "promo_no": "2409068907",
+        "promo_nm": "[쿨티밀라노] 해당 상품 구매 시 디퓨저 스틱 증정 (250ml)",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012652"
+    },
+    {
+        "product_code": "2307843495",
+        "gift_mgmt_nm": "[CM]디퓨저스틱 250ml",
+        "promo_no": "2409068907",
+        "promo_nm": "[쿨티밀라노] 해당 상품 구매 시 디퓨저 스틱 증정 (250ml)",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012652"
+    },
+    {
+        "product_code": "2307843496",
+        "gift_mgmt_nm": "[CM]디퓨저스틱 250ml",
+        "promo_no": "2409068907",
+        "promo_nm": "[쿨티밀라노] 해당 상품 구매 시 디퓨저 스틱 증정 (250ml)",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012652"
+    },
+    {
+        "product_code": "2307843497",
+        "gift_mgmt_nm": "[CM]디퓨저스틱 500ml",
+        "promo_no": "2409068906",
+        "promo_nm": "[쿨티밀라노] 해당 상품 구매 시 디퓨저 스틱 증정 (500ml)",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012653"
+    },
+    {
+        "product_code": "2307843498",
+        "gift_mgmt_nm": "[CM]디퓨저스틱 500ml",
+        "promo_no": "2409068906",
+        "promo_nm": "[쿨티밀라노] 해당 상품 구매 시 디퓨저 스틱 증정 (500ml)",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012653"
+    },
+    {
+        "product_code": "2307843499",
+        "gift_mgmt_nm": "[CM]디퓨저스틱 500ml",
+        "promo_no": "2409068906",
+        "promo_nm": "[쿨티밀라노] 해당 상품 구매 시 디퓨저 스틱 증정 (500ml)",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012653"
+    },
+    {
+        "product_code": "2307843500",
+        "gift_mgmt_nm": "[CM]디퓨저스틱 500ml",
+        "promo_no": "2409068906",
+        "promo_nm": "[쿨티밀라노] 해당 상품 구매 시 디퓨저 스틱 증정 (500ml)",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012653"
+    },
+    {
+        "product_code": "2307843501",
+        "gift_mgmt_nm": "[CM]디퓨저스틱 500ml",
+        "promo_no": "2409068906",
+        "promo_nm": "[쿨티밀라노] 해당 상품 구매 시 디퓨저 스틱 증정 (500ml)",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012653"
+    },
+    {
+        "product_code": "2307843502",
+        "gift_mgmt_nm": "[CM]디퓨저스틱 500ml",
+        "promo_no": "2409068906",
+        "promo_nm": "[쿨티밀라노] 해당 상품 구매 시 디퓨저 스틱 증정 (500ml)",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012653"
+    },
+    {
+        "product_code": "2307843503",
+        "gift_mgmt_nm": "[CM]디퓨저스틱 250ml",
+        "promo_no": "2409068907",
+        "promo_nm": "[쿨티밀라노] 해당 상품 구매 시 디퓨저 스틱 증정 (250ml)",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012652"
+    },
+    {
+        "product_code": "2307843504",
+        "gift_mgmt_nm": "[CM]디퓨저스틱 250ml",
+        "promo_no": "2409068907",
+        "promo_nm": "[쿨티밀라노] 해당 상품 구매 시 디퓨저 스틱 증정 (250ml)",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012652"
+    },
+    {
+        "product_code": "2307843505",
+        "gift_mgmt_nm": "[CM]디퓨저스틱 250ml",
+        "promo_no": "2409068907",
+        "promo_nm": "[쿨티밀라노] 해당 상품 구매 시 디퓨저 스틱 증정 (250ml)",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012652"
+    },
+    {
+        "product_code": "2307843506",
+        "gift_mgmt_nm": "[CM]디퓨저스틱 250ml",
+        "promo_no": "2409068907",
+        "promo_nm": "[쿨티밀라노] 해당 상품 구매 시 디퓨저 스틱 증정 (250ml)",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012652"
+    },
+    {
+        "product_code": "2307843507",
+        "gift_mgmt_nm": "[CM]디퓨저스틱 250ml",
+        "promo_no": "2409068907",
+        "promo_nm": "[쿨티밀라노] 해당 상품 구매 시 디퓨저 스틱 증정 (250ml)",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012652"
+    },
+    {
+        "product_code": "2307843508",
+        "gift_mgmt_nm": "[CM]디퓨저스틱 250ml",
+        "promo_no": "2409068907",
+        "promo_nm": "[쿨티밀라노] 해당 상품 구매 시 디퓨저 스틱 증정 (250ml)",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012652"
+    },
+    {
+        "product_code": "2307843509",
+        "gift_mgmt_nm": "[CM]디퓨저스틱 500ml",
+        "promo_no": "2409068906",
+        "promo_nm": "[쿨티밀라노] 해당 상품 구매 시 디퓨저 스틱 증정 (500ml)",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012653"
+    },
+    {
+        "product_code": "2307843510",
+        "gift_mgmt_nm": "[CM]디퓨저스틱 500ml",
+        "promo_no": "2409068906",
+        "promo_nm": "[쿨티밀라노] 해당 상품 구매 시 디퓨저 스틱 증정 (500ml)",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012653"
+    },
+    {
+        "product_code": "2307843511",
+        "gift_mgmt_nm": "[CM]디퓨저스틱 500ml",
+        "promo_no": "2409068906",
+        "promo_nm": "[쿨티밀라노] 해당 상품 구매 시 디퓨저 스틱 증정 (500ml)",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012653"
+    },
+    {
+        "product_code": "2307843512",
+        "gift_mgmt_nm": "[CM]디퓨저스틱 500ml",
+        "promo_no": "2409068906",
+        "promo_nm": "[쿨티밀라노] 해당 상품 구매 시 디퓨저 스틱 증정 (500ml)",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012653"
+    },
+    {
+        "product_code": "2307843513",
+        "gift_mgmt_nm": "[CM]디퓨저스틱 500ml",
+        "promo_no": "2409068906",
+        "promo_nm": "[쿨티밀라노] 해당 상품 구매 시 디퓨저 스틱 증정 (500ml)",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012653"
+    },
+    {
+        "product_code": "2307843514",
+        "gift_mgmt_nm": "[CM]디퓨저스틱 500ml",
+        "promo_no": "2409068906",
+        "promo_nm": "[쿨티밀라노] 해당 상품 구매 시 디퓨저 스틱 증정 (500ml)",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012653"
+    },
+    {
+        "product_code": "2307843515",
+        "gift_mgmt_nm": "[CM]디퓨저스틱 500ml",
+        "promo_no": "2409068906",
+        "promo_nm": "[쿨티밀라노] 해당 상품 구매 시 디퓨저 스틱 증정 (500ml)",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012653"
+    },
+    {
+        "product_code": "2307843516",
+        "gift_mgmt_nm": "[CM]디퓨저스틱 500ml",
+        "promo_no": "2409068906",
+        "promo_nm": "[쿨티밀라노] 해당 상품 구매 시 디퓨저 스틱 증정 (500ml)",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012653"
+    },
+    {
+        "product_code": "2307843517",
+        "gift_mgmt_nm": "[CM]디퓨저스틱 500ml",
+        "promo_no": "2409068906",
+        "promo_nm": "[쿨티밀라노] 해당 상품 구매 시 디퓨저 스틱 증정 (500ml)",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012653"
+    },
+    {
+        "product_code": "2307843518",
+        "gift_mgmt_nm": "[CM]디퓨저스틱 500ml",
+        "promo_no": "2409068906",
+        "promo_nm": "[쿨티밀라노] 해당 상품 구매 시 디퓨저 스틱 증정 (500ml)",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012653"
+    },
+    {
+        "product_code": "2307843519",
+        "gift_mgmt_nm": "[CM]디퓨저스틱 500ml",
+        "promo_no": "2409068906",
+        "promo_nm": "[쿨티밀라노] 해당 상품 구매 시 디퓨저 스틱 증정 (500ml)",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012653"
+    },
+    {
+        "product_code": "2307843932",
+        "gift_mgmt_nm": "[멜린앤게츠] 쇼핑백 (중) 증정",
+        "promo_no": "2408068376",
+        "promo_nm": "[추석선물/멜린앤게츠] 해당 상품 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400018017"
+    },
+    {
+        "product_code": "2307855053",
+        "gift_mgmt_nm": "[스위스퍼펙션] 스몰 페이퍼 백 증정",
+        "promo_no": "2408068601",
+        "promo_nm": "[스위스퍼펙션] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017705"
+    },
+    {
+        "product_code": "2308876480",
+        "gift_mgmt_nm": "[엑스니힐로] 추천 오드퍼퓸 캔들,미스트2종증정",
+        "promo_no": "2408068049",
+        "promo_nm": "[엑스니힐로] 가을 추천 향수 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017841"
+    },
+    {
+        "product_code": "2309895825",
+        "gift_mgmt_nm": "[DGB] 라이트 블루 뿌르 옴므 오 인텐스 오 드 퍼퓸 1.5ml",
+        "promo_no": "2408068343",
+        "promo_nm": "[추석선물/돌체앤가바나뷰티] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017972"
+    },
+    {
+        "product_code": "2309895837",
+        "gift_mgmt_nm": "[DGB] 라이트 블루 오 드 뚜왈렛 1.5ml",
+        "promo_no": "2408068357",
+        "promo_nm": "[추석선물/돌체앤가바나뷰티] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017976"
+    },
+    {
+        "product_code": "2309895838",
+        "gift_mgmt_nm": "[DGB] 라이트 블루 뿌르 옴므 오 인텐스 오 드 퍼퓸 1.5ml",
+        "promo_no": "2408068343",
+        "promo_nm": "[추석선물/돌체앤가바나뷰티] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017972"
+    },
+    {
+        "product_code": "2309902248",
+        "gift_mgmt_nm": "[바이레도] 바디제품 펌프 증정 / 6204971064 (14)",
+        "promo_no": "2401056827",
+        "promo_nm": "[바이레도] 해당 상품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012855"
+    },
+    {
+        "product_code": "2310918014",
+        "gift_mgmt_nm": "[LM] 쇼핑백 S",
+        "promo_no": "2408068360",
+        "promo_nm": "[추석선물/로라메르시에] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017973"
+    },
+    {
+        "product_code": "2310920478",
+        "gift_mgmt_nm": "[LP/JLS]  쇼핑백 S + 리본",
+        "promo_no": "2408068348",
+        "promo_nm": "[추석선물/조러브스] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017975"
+    },
+    {
+        "product_code": "2310920479",
+        "gift_mgmt_nm": "[LP/JLS]  쇼핑백 S + 리본",
+        "promo_no": "2408068348",
+        "promo_nm": "[추석선물/조러브스] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017975"
+    },
+    {
+        "product_code": "2310921934",
+        "gift_mgmt_nm": "[LP/오리베] 쇼핑백 L",
+        "promo_no": "2408068347",
+        "promo_nm": "[추석선물/오리베] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016559"
+    },
+    {
+        "product_code": "2310922444",
+        "gift_mgmt_nm": "[로이비] 퍼퓸드헤어2종샤셰 베르가못 (각10ml) 증정",
+        "promo_no": "2408068377",
+        "promo_nm": "[추석선물/로이비] 해당 제품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017777"
+    },
+    {
+        "product_code": "2310922444",
+        "gift_mgmt_nm": "[로이비] LV 쇼핑백(basic) 증정",
+        "promo_no": "2409068949",
+        "promo_nm": "[로이비] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017856"
+    },
+    {
+        "product_code": "2310922445",
+        "gift_mgmt_nm": "[로이비] 퍼퓸드헤어2종샤셰 베르가못 (각10ml) 증정",
+        "promo_no": "2408068377",
+        "promo_nm": "[추석선물/로이비] 해당 제품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017777"
+    },
+    {
+        "product_code": "2310922445",
+        "gift_mgmt_nm": "[로이비] LV 쇼핑백(basic) 증정",
+        "promo_no": "2409068949",
+        "promo_nm": "[로이비] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017856"
+    },
+    {
+        "product_code": "2310923853",
+        "gift_mgmt_nm": "[아이엠] 추석대전 쇼핑백, 샘플 2매 증정",
+        "promo_no": "2408068588",
+        "promo_nm": "[아이엠] 세트상품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400018027"
+    },
+    {
+        "product_code": "2310923861",
+        "gift_mgmt_nm": "[아이엠] 추석대전 쇼핑백, 샘플 2매 증정",
+        "promo_no": "2408068588",
+        "promo_nm": "[아이엠] 세트상품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400018027"
+    },
+    {
+        "product_code": "2310923864",
+        "gift_mgmt_nm": "[아이엠] 추석대전 쇼핑백, 샘플 2매 증정",
+        "promo_no": "2408068588",
+        "promo_nm": "[아이엠] 세트상품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400018027"
+    },
+    {
+        "product_code": "2311004146",
+        "gift_mgmt_nm": "[DGB] 디보션 오 드 퍼퓸 1.5ml",
+        "promo_no": "2408068359",
+        "promo_nm": "[추석선물/돌체앤가바나뷰티] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017978"
+    },
+    {
+        "product_code": "2311991324",
+        "gift_mgmt_nm": "[LP/수잔카프만] 쇼핑백",
+        "promo_no": "2408068299",
+        "promo_nm": "[라페르바/수잔카프만] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016561"
+    },
+    {
+        "product_code": "2311991326",
+        "gift_mgmt_nm": "[LP/수잔카프만] 쇼핑백",
+        "promo_no": "2408068299",
+        "promo_nm": "[라페르바/수잔카프만] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016561"
+    },
+    {
+        "product_code": "2311991336",
+        "gift_mgmt_nm": "[LP] 쇼핑백 (소)",
+        "promo_no": "2408068298",
+        "promo_nm": "[추석선물/라페르바] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016576"
+    },
+    {
+        "product_code": "2311991337",
+        "gift_mgmt_nm": "[LP] 쇼핑백 (소)",
+        "promo_no": "2408068298",
+        "promo_nm": "[추석선물/라페르바] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016576"
+    },
+    {
+        "product_code": "2311991338",
+        "gift_mgmt_nm": "[LP/수잔카프만] 쇼핑백",
+        "promo_no": "2408068299",
+        "promo_nm": "[라페르바/수잔카프만] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016561"
+    },
+    {
+        "product_code": "2311991342",
+        "gift_mgmt_nm": "[LP/수잔카프만] 쇼핑백",
+        "promo_no": "2408068299",
+        "promo_nm": "[라페르바/수잔카프만] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016561"
+    },
+    {
+        "product_code": "2311991343",
+        "gift_mgmt_nm": "[LP/수잔카프만] 쇼핑백",
+        "promo_no": "2408068299",
+        "promo_nm": "[라페르바/수잔카프만] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016561"
+    },
+    {
+        "product_code": "2311991344",
+        "gift_mgmt_nm": "[LP/수잔카프만] 쇼핑백",
+        "promo_no": "2408068299",
+        "promo_nm": "[라페르바/수잔카프만] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016561"
+    },
+    {
+        "product_code": "2311991346",
+        "gift_mgmt_nm": "[LP/수잔카프만] 쇼핑백",
+        "promo_no": "2408068299",
+        "promo_nm": "[라페르바/수잔카프만] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016561"
+    },
+    {
+        "product_code": "2311991349",
+        "gift_mgmt_nm": "[LP/수잔카프만] 쇼핑백",
+        "promo_no": "2408068299",
+        "promo_nm": "[라페르바/수잔카프만] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016561"
+    },
+    {
+        "product_code": "2311991354",
+        "gift_mgmt_nm": "[LP] 쇼핑백 (소)",
+        "promo_no": "2408068298",
+        "promo_nm": "[추석선물/라페르바] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016576"
+    },
+    {
+        "product_code": "2311991357",
+        "gift_mgmt_nm": "[LP/수잔카프만] 쇼핑백",
+        "promo_no": "2408068299",
+        "promo_nm": "[라페르바/수잔카프만] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016561"
+    },
+    {
+        "product_code": "2311993053",
+        "gift_mgmt_nm": "[로이비] LV 쇼핑백(basic) 증정",
+        "promo_no": "2409068949",
+        "promo_nm": "[로이비] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017856"
+    },
+    {
+        "product_code": "2311993184",
+        "gift_mgmt_nm": "[디에스앤더가] 100ml & 디럭스 구매 시 오토 2종",
+        "promo_no": "2408068572",
+        "promo_nm": "[디에스앤더가] 100ml &amp; 디럭스 박스 세트 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400018036"
+    },
+    {
+        "product_code": "2311999931",
+        "gift_mgmt_nm": "[디에스앤더가] 바디 구매시 1.5ml",
+        "promo_no": "2408068576",
+        "promo_nm": "[디에스앤더가] 바디 제품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400018035"
+    },
+    {
+        "product_code": "2311999935",
+        "gift_mgmt_nm": "[디에스앤더가] 바디 구매시 1.5ml",
+        "promo_no": "2408068576",
+        "promo_nm": "[디에스앤더가] 바디 제품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400018035"
+    },
+    {
+        "product_code": "2312010716",
+        "gift_mgmt_nm": "[CM]디퓨저스틱 250ml",
+        "promo_no": "2409068907",
+        "promo_nm": "[쿨티밀라노] 해당 상품 구매 시 디퓨저 스틱 증정 (250ml)",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012652"
+    },
+    {
+        "product_code": "2312010717",
+        "gift_mgmt_nm": "[CM]디퓨저스틱 500ml",
+        "promo_no": "2409068906",
+        "promo_nm": "[쿨티밀라노] 해당 상품 구매 시 디퓨저 스틱 증정 (500ml)",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012653"
+    },
+    {
+        "product_code": "2312010718",
+        "gift_mgmt_nm": "[CM]디퓨저스틱 250ml",
+        "promo_no": "2409068907",
+        "promo_nm": "[쿨티밀라노] 해당 상품 구매 시 디퓨저 스틱 증정 (250ml)",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012652"
+    },
+    {
+        "product_code": "2312010719",
+        "gift_mgmt_nm": "[CM]디퓨저스틱 500ml",
+        "promo_no": "2409068906",
+        "promo_nm": "[쿨티밀라노] 해당 상품 구매 시 디퓨저 스틱 증정 (500ml)",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012653"
+    },
+    {
+        "product_code": "2312045304",
+        "gift_mgmt_nm": "[DV]OI 펌프 280ml",
+        "promo_no": "2312055895",
+        "promo_nm": "[다비네스] 해당 제품 구매시 펌프 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012341"
+    },
+    {
+        "product_code": "2401110713",
+        "gift_mgmt_nm": "[스위스퍼펙션] 스몰 페이퍼 백 증정",
+        "promo_no": "2408068601",
+        "promo_nm": "[스위스퍼펙션] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017705"
+    },
+    {
+        "product_code": "2401137627",
+        "gift_mgmt_nm": "[LP/오리베] 쇼핑백 L",
+        "promo_no": "2408068347",
+        "promo_nm": "[추석선물/오리베] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016559"
+    },
+    {
+        "product_code": "2401137907",
+        "gift_mgmt_nm": "[HG] 배니쉬 에어브러쉬 프라이머 - 사셰",
+        "promo_no": "2408068338",
+        "promo_nm": "[추석선물/아워글래스] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017969"
+    },
+    {
+        "product_code": "2401161869",
+        "gift_mgmt_nm": "[로에베퍼퓸] 쇼핑백 SMALL 증정",
+        "promo_no": "2408067919",
+        "promo_nm": "[로에베퍼퓸] 해당 상품 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017300"
+    },
+    {
+        "product_code": "2401161869",
+        "gift_mgmt_nm": "[로에베] 파울라 이비자 노트북 폴라스 증정 (150개 한정)",
+        "promo_no": "2408068106",
+        "promo_nm": "[로에베퍼퓸] 베스트셀러 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017068"
+    },
+    {
+        "product_code": "2401161889",
+        "gift_mgmt_nm": "[로에베퍼퓸] 쇼핑백 SMALL 증정",
+        "promo_no": "2408067919",
+        "promo_nm": "[로에베퍼퓸] 해당 상품 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017300"
+    },
+    {
+        "product_code": "2401161907",
+        "gift_mgmt_nm": "[로에베퍼퓸] 스몰 캔들 쇼핑백 증정",
+        "promo_no": "2408067921",
+        "promo_nm": "[로에베퍼퓸] 해당 상품 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017302"
+    },
+    {
+        "product_code": "2401161908",
+        "gift_mgmt_nm": "[로에베퍼퓸] 스몰 캔들 쇼핑백 증정",
+        "promo_no": "2408067921",
+        "promo_nm": "[로에베퍼퓸] 해당 상품 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017302"
+    },
+    {
+        "product_code": "2401161909",
+        "gift_mgmt_nm": "[로에베퍼퓸] 스몰 캔들 쇼핑백 증정",
+        "promo_no": "2408067921",
+        "promo_nm": "[로에베퍼퓸] 해당 상품 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017302"
+    },
+    {
+        "product_code": "2401161910",
+        "gift_mgmt_nm": "[로에베퍼퓸] 스몰 캔들 쇼핑백 증정",
+        "promo_no": "2408067921",
+        "promo_nm": "[로에베퍼퓸] 해당 상품 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017302"
+    },
+    {
+        "product_code": "2401161912",
+        "gift_mgmt_nm": "[로에베퍼퓸] 스몰 캔들 쇼핑백 증정",
+        "promo_no": "2408067921",
+        "promo_nm": "[로에베퍼퓸] 해당 상품 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017302"
+    },
+    {
+        "product_code": "2401161912",
+        "gift_mgmt_nm": "[로에베] 파울라 이비자 노트북 폴라스 증정 (150개 한정)",
+        "promo_no": "2408068106",
+        "promo_nm": "[로에베퍼퓸] 베스트셀러 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017068"
+    },
+    {
+        "product_code": "2401161913",
+        "gift_mgmt_nm": "[로에베퍼퓸] 스몰 캔들 쇼핑백 증정",
+        "promo_no": "2408067921",
+        "promo_nm": "[로에베퍼퓸] 해당 상품 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017302"
+    },
+    {
+        "product_code": "2401161914",
+        "gift_mgmt_nm": "[로에베퍼퓸] 스몰 캔들 쇼핑백 증정",
+        "promo_no": "2408067921",
+        "promo_nm": "[로에베퍼퓸] 해당 상품 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017302"
+    },
+    {
+        "product_code": "2401161914",
+        "gift_mgmt_nm": "[로에베] 파울라 이비자 노트북 폴라스 증정 (150개 한정)",
+        "promo_no": "2408068106",
+        "promo_nm": "[로에베퍼퓸] 베스트셀러 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017068"
+    },
+    {
+        "product_code": "2401161917",
+        "gift_mgmt_nm": "[로에베퍼퓸] 스몰 캔들 쇼핑백 증정",
+        "promo_no": "2408067921",
+        "promo_nm": "[로에베퍼퓸] 해당 상품 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017302"
+    },
+    {
+        "product_code": "2401161918",
+        "gift_mgmt_nm": "[로에베퍼퓸] 스퀘어 쇼핑백 증정",
+        "promo_no": "2408068105",
+        "promo_nm": "[로에베퍼퓸] 해당 상품 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017304"
+    },
+    {
+        "product_code": "2401161919",
+        "gift_mgmt_nm": "[로에베퍼퓸] 스퀘어 쇼핑백 증정",
+        "promo_no": "2408068105",
+        "promo_nm": "[로에베퍼퓸] 해당 상품 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017304"
+    },
+    {
+        "product_code": "2401161922",
+        "gift_mgmt_nm": "[로에베퍼퓸] 스퀘어 쇼핑백 증정",
+        "promo_no": "2408068105",
+        "promo_nm": "[로에베퍼퓸] 해당 상품 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017304"
+    },
+    {
+        "product_code": "2401161923",
+        "gift_mgmt_nm": "[로에베퍼퓸] 스몰 캔들 쇼핑백 증정",
+        "promo_no": "2408067921",
+        "promo_nm": "[로에베퍼퓸] 해당 상품 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017302"
+    },
+    {
+        "product_code": "2401161923",
+        "gift_mgmt_nm": "[로에베] 파울라 이비자 노트북 폴라스 증정 (150개 한정)",
+        "promo_no": "2408068106",
+        "promo_nm": "[로에베퍼퓸] 베스트셀러 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017068"
+    },
+    {
+        "product_code": "2401161929",
+        "gift_mgmt_nm": "[로에베퍼퓸] 스몰 캔들 쇼핑백 증정",
+        "promo_no": "2408067921",
+        "promo_nm": "[로에베퍼퓸] 해당 상품 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017302"
+    },
+    {
+        "product_code": "2401161930",
+        "gift_mgmt_nm": "[로에베퍼퓸] 스퀘어 쇼핑백 증정",
+        "promo_no": "2408068105",
+        "promo_nm": "[로에베퍼퓸] 해당 상품 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017304"
+    },
+    {
+        "product_code": "2401161931",
+        "gift_mgmt_nm": "[로에베퍼퓸] 스퀘어 쇼핑백 증정",
+        "promo_no": "2408068105",
+        "promo_nm": "[로에베퍼퓸] 해당 상품 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017304"
+    },
+    {
+        "product_code": "2401161941",
+        "gift_mgmt_nm": "[로에베퍼퓸] 스몰 캔들 쇼핑백 증정",
+        "promo_no": "2408067921",
+        "promo_nm": "[로에베퍼퓸] 해당 상품 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017302"
+    },
+    {
+        "product_code": "2401161943",
+        "gift_mgmt_nm": "[로에베퍼퓸] 스몰 캔들 쇼핑백 증정",
+        "promo_no": "2408067921",
+        "promo_nm": "[로에베퍼퓸] 해당 상품 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017302"
+    },
+    {
+        "product_code": "2401162658",
+        "gift_mgmt_nm": "[로이비] 퍼퓸드헤어2종샤셰 베르가못 (각10ml) 증정",
+        "promo_no": "2408068377",
+        "promo_nm": "[추석선물/로이비] 해당 제품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017777"
+    },
+    {
+        "product_code": "2401162658",
+        "gift_mgmt_nm": "[로이비] LV 쇼핑백(basic) 증정",
+        "promo_no": "2409068949",
+        "promo_nm": "[로이비] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017856"
+    },
+    {
+        "product_code": "2401162659",
+        "gift_mgmt_nm": "[로이비] 퍼퓸드헤어2종샤셰 베르가못 (각10ml) 증정",
+        "promo_no": "2408068377",
+        "promo_nm": "[추석선물/로이비] 해당 제품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017777"
+    },
+    {
+        "product_code": "2401162659",
+        "gift_mgmt_nm": "[로이비] LV 쇼핑백(basic) 증정",
+        "promo_no": "2409068949",
+        "promo_nm": "[로이비] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017856"
+    },
+    {
+        "product_code": "2401179529",
+        "gift_mgmt_nm": "[로이비] LV 쇼핑백(basic) 증정",
+        "promo_no": "2409068949",
+        "promo_nm": "[로이비] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017856"
+    },
+    {
+        "product_code": "2401237588",
+        "gift_mgmt_nm": "[MG] 473ML 퍼프",
+        "promo_no": "2403060032",
+        "promo_nm": "[멜린앤게츠] 해당 상품 구매시 펌프 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400015882"
+    },
+    {
+        "product_code": "2401237590",
+        "gift_mgmt_nm": "[MG] 473ML 퍼프",
+        "promo_no": "2403060032",
+        "promo_nm": "[멜린앤게츠] 해당 상품 구매시 펌프 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400015882"
+    },
+    {
+        "product_code": "2401237595",
+        "gift_mgmt_nm": "[MG] 473ML 퍼프",
+        "promo_no": "2403060032",
+        "promo_nm": "[멜린앤게츠] 해당 상품 구매시 펌프 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400015882"
+    },
+    {
+        "product_code": "2402288974",
+        "gift_mgmt_nm": "[아이엠] 추석대전 쇼핑백, 샘플 2매 증정",
+        "promo_no": "2408068588",
+        "promo_nm": "[아이엠] 세트상품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400018027"
+    },
+    {
+        "product_code": "2402328213",
+        "gift_mgmt_nm": "[CM]디퓨저스틱 250ml",
+        "promo_no": "2409068907",
+        "promo_nm": "[쿨티밀라노] 해당 상품 구매 시 디퓨저 스틱 증정 (250ml)",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012652"
+    },
+    {
+        "product_code": "2402334407",
+        "gift_mgmt_nm": "[DGB] 디보션 볼륨 앤 리프트 마스카라 - 01 블랙 -mini",
+        "promo_no": "2408068344",
+        "promo_nm": "[추석선물/돌체앤가바나뷰티] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016942"
+    },
+    {
+        "product_code": "2404818165",
+        "gift_mgmt_nm": "[로에베퍼퓸] 쇼핑백 SMALL 증정",
+        "promo_no": "2408067919",
+        "promo_nm": "[로에베퍼퓸] 해당 상품 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017300"
+    },
+    {
+        "product_code": "2404818165",
+        "gift_mgmt_nm": "[로에베] 파울라 이비자 노트북 폴라스 증정 (150개 한정)",
+        "promo_no": "2408068106",
+        "promo_nm": "[로에베퍼퓸] 베스트셀러 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017068"
+    },
+    {
+        "product_code": "2404845207",
+        "gift_mgmt_nm": "[스위스퍼펙션] 스몰 페이퍼 백 증정",
+        "promo_no": "2408068601",
+        "promo_nm": "[스위스퍼펙션] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017705"
+    },
+    {
+        "product_code": "2404847910",
+        "gift_mgmt_nm": "[연작] 세트 구매시 전초 마스크 3매 증정",
+        "promo_no": "2408068042",
+        "promo_nm": "[연작] 세트 상품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017844"
+    },
+    {
+        "product_code": "2404847910",
+        "gift_mgmt_nm": "[연작] 트리오 세트 구매 시 쇼핑백 (중)",
+        "promo_no": "2408068586",
+        "promo_nm": "[연작] 세트상품 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400018026"
+    },
+    {
+        "product_code": "2404899476",
+        "gift_mgmt_nm": "[LP/오리베] 쇼핑백 L",
+        "promo_no": "2408068347",
+        "promo_nm": "[추석선물/오리베] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400016559"
+    },
+    {
+        "product_code": "2404933627",
+        "gift_mgmt_nm": "[로에베퍼퓸] 쇼핑백 MEDIUM + 센티드 미니 솝 오레가노 (150개 한정)",
+        "promo_no": "2408067920",
+        "promo_nm": "[로에베퍼퓸] 해당 상품 구매 시 쇼핑백 및 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017790"
+    },
+    {
+        "product_code": "2405116837",
+        "gift_mgmt_nm": "[로에베퍼퓸] 쇼핑백 MEDIUM + 센티드 미니 솝 오레가노 (150개 한정)",
+        "promo_no": "2408067920",
+        "promo_nm": "[로에베퍼퓸] 해당 상품 구매 시 쇼핑백 및 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017790"
+    },
+    {
+        "product_code": "2405121752",
+        "gift_mgmt_nm": "[LP/CT] 디퓨저 스틱 - 500ml (람보르기니 전용)",
+        "promo_no": "2406064754",
+        "promo_nm": "[쿨티밀라노] 디퓨저 스틱 증정 (500ml - 람보르기니 전용)",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017062"
+    },
+    {
+        "product_code": "2405121753",
+        "gift_mgmt_nm": "[LP/CT] 디퓨저 스틱 - 1000ml (람보르기니 전용)",
+        "promo_no": "2406064753",
+        "promo_nm": "[쿨티밀라노] 디퓨저 스틱 증정 (1000ml - 람보르기니 전용)",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017061"
+    },
+    {
+        "product_code": "2405158548",
+        "gift_mgmt_nm": "[로에베퍼퓸] 쇼핑백 SMALL 증정",
+        "promo_no": "2408067919",
+        "promo_nm": "[로에베퍼퓸] 해당 상품 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017300"
+    },
+    {
+        "product_code": "2405218682",
+        "gift_mgmt_nm": "[로에베퍼퓸] 쇼핑백 MEDIUM + 센티드 미니 솝 오레가노 (150개 한정)",
+        "promo_no": "2408067920",
+        "promo_nm": "[로에베퍼퓸] 해당 상품 구매 시 쇼핑백 및 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017790"
+    },
+    {
+        "product_code": "2406267447",
+        "gift_mgmt_nm": "[로에베퍼퓸] 스몰 캔들 쇼핑백 증정",
+        "promo_no": "2408067921",
+        "promo_nm": "[로에베퍼퓸] 해당 상품 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017302"
+    },
+    {
+        "product_code": "2406267448",
+        "gift_mgmt_nm": "[로에베퍼퓸] 스퀘어 쇼핑백 증정",
+        "promo_no": "2408068105",
+        "promo_nm": "[로에베퍼퓸] 해당 상품 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017304"
+    },
+    {
+        "product_code": "2406267449",
+        "gift_mgmt_nm": "[로에베퍼퓸] 스퀘어 쇼핑백 증정",
+        "promo_no": "2408068105",
+        "promo_nm": "[로에베퍼퓸] 해당 상품 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017304"
+    },
+    {
+        "product_code": "2406267450",
+        "gift_mgmt_nm": "[로에베퍼퓸] 스몰 캔들 쇼핑백 증정",
+        "promo_no": "2408067921",
+        "promo_nm": "[로에베퍼퓸] 해당 상품 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017302"
+    },
+    {
+        "product_code": "2406267452",
+        "gift_mgmt_nm": "[로에베퍼퓸] 스몰 캔들 쇼핑백 증정",
+        "promo_no": "2408067921",
+        "promo_nm": "[로에베퍼퓸] 해당 상품 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017302"
+    },
+    {
+        "product_code": "2406267458",
+        "gift_mgmt_nm": "[로에베퍼퓸] 스몰 캔들 쇼핑백 증정",
+        "promo_no": "2408067921",
+        "promo_nm": "[로에베퍼퓸] 해당 상품 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017302"
+    },
+    {
+        "product_code": "2406267459",
+        "gift_mgmt_nm": "[로에베퍼퓸] 스퀘어 쇼핑백 증정",
+        "promo_no": "2408068105",
+        "promo_nm": "[로에베퍼퓸] 해당 상품 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017304"
+    },
+    {
+        "product_code": "2406268861",
+        "gift_mgmt_nm": "[로에베퍼퓸] 스몰 캔들 쇼핑백 증정",
+        "promo_no": "2408067921",
+        "promo_nm": "[로에베퍼퓸] 해당 상품 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017302"
+    },
+    {
+        "product_code": "2406268866",
+        "gift_mgmt_nm": "[로에베퍼퓸] 스몰 캔들 쇼핑백 증정",
+        "promo_no": "2408067921",
+        "promo_nm": "[로에베퍼퓸] 해당 상품 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017302"
+    },
+    {
+        "product_code": "2406384970",
+        "gift_mgmt_nm": "[딥티크] 플레르드뽀 2ml + 벨벳 핸드로션 10ml 증정",
+        "promo_no": "2408068468",
+        "promo_nm": "[딥티크] 해당 상품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400018010"
+    },
+    {
+        "product_code": "2406427606",
+        "gift_mgmt_nm": "[스위스퍼펙션] 스몰 페이퍼 백 증정",
+        "promo_no": "2408068601",
+        "promo_nm": "[스위스퍼펙션] 전 구매 시 쇼핑백 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017705"
+    },
+    {
+        "product_code": "2406480222",
+        "gift_mgmt_nm": "[HG] 배니쉬 프라이머 - 사셰 +  퍼프 세트",
+        "promo_no": "2408068339",
+        "promo_nm": "[추석선물/아워글래스] 해당 상품 구매시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017971"
+    },
+    {
+        "product_code": "2407517697",
+        "gift_mgmt_nm": "[연작] 세트 구매시 전초 마스크 3매 증정",
+        "promo_no": "2408068042",
+        "promo_nm": "[연작] 세트 상품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017844"
+    },
+    {
+        "product_code": "2407681215",
+        "gift_mgmt_nm": "[딥티크] 벨벳 핸드로션 10ml 증정",
+        "promo_no": "2408068484",
+        "promo_nm": "[딥티크] 해당 상품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400018011"
+    },
+    {
+        "product_code": "2407681216",
+        "gift_mgmt_nm": "[딥티크] 플레르드뽀 2ml 증정",
+        "promo_no": "2408068483",
+        "promo_nm": "[딥티크] 해당 상품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017525"
+    },
+    {
+        "product_code": "2407681217",
+        "gift_mgmt_nm": "[딥티크] 벨벳 핸드로션 10ml 증정",
+        "promo_no": "2408068484",
+        "promo_nm": "[딥티크] 해당 상품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400018011"
+    },
+    {
+        "product_code": "2407681598",
+        "gift_mgmt_nm": "[딥티크] 벨벳 핸드로션 10ml 증정",
+        "promo_no": "2408068484",
+        "promo_nm": "[딥티크] 해당 상품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400018011"
+    },
+    {
+        "product_code": "2408072539",
+        "gift_mgmt_nm": "[CM]디퓨저스틱 500ml",
+        "promo_no": "2409068906",
+        "promo_nm": "[쿨티밀라노] 해당 상품 구매 시 디퓨저 스틱 증정 (500ml)",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2300012653"
+    },
+    {
+        "product_code": "2408099038",
+        "gift_mgmt_nm": "[딥티크] 도손 듀오 + 플뽀 듀오 + 백태그",
+        "promo_no": "2409068899",
+        "promo_nm": "[딥티크] 해당 상품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400018009"
+    },
+    {
+        "product_code": "2408099039",
+        "gift_mgmt_nm": "[딥티크] 도손 듀오 + 플뽀 듀오 + 백태그",
+        "promo_no": "2409068899",
+        "promo_nm": "[딥티크] 해당 상품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400018009"
+    },
+    {
+        "product_code": "2408099042",
+        "gift_mgmt_nm": "[딥티크] 도손 듀오 + 플뽀 듀오 + 백태그",
+        "promo_no": "2409069107",
+        "promo_nm": "[딥티크] 해당 상품 구매 시 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400018009"
+    },
+    {
+        "product_code": "2408807041",
+        "gift_mgmt_nm": "[로에베퍼퓸] 쇼핑백 MEDIUM + 센티드 미니 솝 오레가노 (150개 한정)",
+        "promo_no": "2408067920",
+        "promo_nm": "[로에베퍼퓸] 해당 상품 구매 시 쇼핑백 및 사은품 증정",
+        "gift_give_sel_cnt": 0,
+        "gift_give_type_cd": "20",
+        "gift_give_by_qty_yn": "Y",
+        "gift_mgmt_no": "2400017790"
+    }
+]
